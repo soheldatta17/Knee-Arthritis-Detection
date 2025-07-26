@@ -1,4 +1,4 @@
-# 🦵 Knee Arthritis Detection using Deep Learning
+# Knee Arthritis Detection using Deep Learning
 
 This project focuses on the automatic detection and grading of **knee osteoarthritis** using X-ray images and Convolutional Neural Networks (CNN). The goal is to classify knee conditions into **five severity levels** (KL grades 0 to 4) based on radiographic features.
 
